@@ -1,5 +1,5 @@
 # cs174-decryptoid
-CS174 final project - Web Application (LAMP stack) to encrypt/decrypt using various ciphers
+[CS174 Introduction to Server Side Programming] Final project - Web Application (LAMP stack) to encrypt/decrypt using various ciphers
 
 
 Features:
